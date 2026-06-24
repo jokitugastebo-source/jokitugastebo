@@ -1,0 +1,8 @@
+# robots.txt untuk Joki Tugas Tebo
+# Domain: https://jokitugastebo.vercel.app
+
+User-agent: *
+Allow: /
+
+# lokasi sitemap
+Sitemap: https://jokitugastebo.vercel.app/sitemap.xml
